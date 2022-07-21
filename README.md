@@ -1,1 +1,1 @@
-# Segmentation-Optimal-Scale-Determination
+# Segmentation-Optimal-Scale-Determination (Coming soon)
