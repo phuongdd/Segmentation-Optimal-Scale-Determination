@@ -1,0 +1,16 @@
+deepdish
+ipywidgets
+faiss
+h5py
+numpy
+pandas
+plotly
+pluggy
+property_manager
+pygdal
+scikit-image
+scikit-learn
+scipy
+seaborn
+spectral
+tqdm
